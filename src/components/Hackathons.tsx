@@ -47,7 +47,7 @@ import {
 const Hackathons = () => {
   return (
     <div className="w-full">
-      <div className="flex ml-20 mr-20 text-justify text-[21px]">
+      <div className="flex ml-20 mr-20 text-justify text-[20px]">
         {hackDetails1.map((hackDet) => (
           <div className="">
             <div className="mr-20">
@@ -94,7 +94,7 @@ const Hackathons = () => {
         </div>
       </div>
       <div className="w-full mt-[500px]">
-        <div className="flex ml-20 mr-20 text-justify text-[21px]">
+        <div className="flex ml-20 mr-20 text-justify text-[20px]">
           {hackDetails2.map((hackDet) => (
             <div className="">
               <div className="mr-20">
